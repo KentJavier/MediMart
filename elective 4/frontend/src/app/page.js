@@ -1,9 +1,9 @@
-import Login from './login/page.jsx';
+import Landing from './landing/page.jsx';
 
 export default function Home() {
   return (
     <>
-      <Login/>
+      <Landing/>
     </>
   )
 }
